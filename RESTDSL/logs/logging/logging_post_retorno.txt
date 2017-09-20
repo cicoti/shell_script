@@ -1,5 +1,0 @@
-{
-  "id" : "3cb3ef3b-4e56-4e37-8cfa-2e0bbc66ab49",
-  "name" : "Test Test",
-  "email" : "test@gmail.com"
-}POST
