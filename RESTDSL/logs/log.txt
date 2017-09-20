@@ -1,0 +1,620 @@
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 01/09/17_11:28:23
+Fim: 01-09-17_11:28:26
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 01/09/17_11:30:52
+Fim: 01-09-17_11:30:54
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 01/09/17_11:31:58
+Fim: 01-09-17_11:32:01
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 01/09/17_11:36:55
+Fim: 01-09-17_11:36:57
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 01/09/17_11:37:05
+Fim: 01-09-17_11:37:07
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 01/09/17_11:47:32
+SUCESSO
+Fim: 01-09-17_11:47:33
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 01/09/17_12:09:03
+Fim: 01-09-17_12:09:05
+
+[FUSE-ITAU] - L O G G I N G 
+============================
+Inicio: 01/09/17_12:09:32
+SERVICO ACESSADO
+FALHA
+RESTDSL-Pessoa-POST
+SERVICO ACESSADO
+FALHA
+Fim: 01-09-17_12:09:34
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 01/09/17_12:31:11
+RESTDSL-Product-GET
+TOKEN ENVIADO
+FALHA
+Fim: 01-09-17_12:31:15
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 01/09/17_12:33:46
+RESTDSL-Product-GET
+TOKEN ENVIADO
+FALHA
+Fim: 01-09-17_12:33:48
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 01/09/17_15:14:44
+RESTDSL-Product-GET
+TOKEN ENVIADO
+FALHA
+Fim: 01-09-17_15:14:45
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 01/09/17_16:08:10
+Fim: 01-09-17_16:08:12
+
+[FUSE-ITAU] - C O R R E L A T I O N
+===================================
+Inicio: 01/09/17_16:08:14
+SUCESSO
+Fim: 01-09-17_16:08:17
+
+[FUSE-ITAU] - E X H A N D L I N G 
+==================================
+Inicio: 01/09/17_16:08:18
+SERVICO ACESSADO
+SUCESSO
+CHAMADA DE EXCECAO
+SUCESSO
+Fim: 01-09-17_16:08:20
+
+[FUSE-ITAU] - L O G G I N G 
+============================
+Inicio: 01/09/17_16:08:21
+SERVICO ACESSADO
+FALHA
+RESTDSL-Pessoa-POST
+SERVICO ACESSADO
+FALHA
+Fim: 01-09-17_16:08:23
+
+[FUSE-ITAU] - R O U T I N G 
+============================
+Inicio: 01/09/17_16:08:24
+PARAMETRO PESSOA JURIDICA
+FALHA
+PARAMETRO PESSOA FISICA
+FALHA
+Fim: 01-09-17_16:08:25
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 01/09/17_16:08:27
+RESTDSL-Product-GET
+TOKEN ENVIADO
+FALHA
+Fim: 01-09-17_16:08:30
+
+[FUSE-ITAU] - S E D A 
+======================
+Inicio: 01/09/17_16:08:31
+SERVICO ACESSADO
+SUCESSO
+TIMEOUT EXCEDIDO
+Fim: 01-09-17_16:08:34
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 01/09/17_16:09:08
+Fim: 01-09-17_16:09:10
+
+[FUSE-ITAU] - C O R R E L A T I O N
+===================================
+Inicio: 01/09/17_16:09:12
+SUCESSO
+Fim: 01-09-17_16:09:15
+
+[FUSE-ITAU] - E X H A N D L I N G 
+==================================
+Inicio: 01/09/17_16:09:16
+SERVICO ACESSADO
+SUCESSO
+CHAMADA DE EXCECAO
+SUCESSO
+Fim: 01-09-17_16:09:18
+
+[FUSE-ITAU] - L O G G I N G 
+============================
+Inicio: 01/09/17_16:09:20
+SERVICO ACESSADO
+FALHA
+RESTDSL-Pessoa-POST
+SERVICO ACESSADO
+FALHA
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 01/09/17_18:54:46
+Fim: 01-09-17_18:54:49
+
+[FUSE-ITAU] - C O R R E L A T I O N
+===================================
+Inicio: 01/09/17_18:54:50
+SUCESSO
+Fim: 01-09-17_18:54:54
+
+[FUSE-ITAU] - E X H A N D L I N G 
+==================================
+Inicio: 01/09/17_18:54:55
+SERVICO ACESSADO
+SUCESSO
+CHAMADA DE EXCECAO
+SUCESSO
+Fim: 01-09-17_18:54:57
+
+[FUSE-ITAU] - L O G G I N G 
+============================
+Inicio: 01/09/17_18:54:59
+SERVICO ACESSADO
+FALHA
+RESTDSL-Pessoa-POST
+SERVICO ACESSADO
+FALHA
+Fim: 01-09-17_18:55:01
+
+[FUSE-ITAU] - R O U T I N G 
+============================
+Inicio: 01/09/17_18:55:03
+PARAMETRO PESSOA JURIDICA
+FALHA
+PARAMETRO PESSOA FISICA
+FALHA
+Fim: 01-09-17_18:55:04
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 01/09/17_18:55:06
+RESTDSL-Product-GET
+TOKEN ENVIADO
+FALHA
+Fim: 01-09-17_18:55:10
+
+[FUSE-ITAU] - S E D A 
+======================
+Inicio: 01/09/17_18:55:12
+SERVICO ACESSADO
+SUCESSO
+TIMEOUT EXCEDIDO
+Fim: 01-09-17_18:55:15
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 04/09/17_09:39:12
+Fim: 04-09-17_09:39:14
+
+[FUSE-ITAU] - C O R R E L A T I O N
+===================================
+Inicio: 04/09/17_09:39:15
+SUCESSO
+Fim: 04-09-17_09:39:19
+
+[FUSE-ITAU] - E X H A N D L I N G 
+==================================
+Inicio: 04/09/17_09:39:20
+SERVICO ACESSADO
+SUCESSO
+CHAMADA DE EXCECAO
+SUCESSO
+Fim: 04-09-17_09:39:22
+
+[FUSE-ITAU] - L O G G I N G 
+============================
+Inicio: 04/09/17_09:39:24
+SERVICO ACESSADO
+FALHA
+RESTDSL-Pessoa-POST
+SERVICO ACESSADO
+FALHA
+Fim: 04-09-17_09:39:26
+
+[FUSE-ITAU] - R O U T I N G 
+============================
+Inicio: 04/09/17_09:39:27
+PARAMETRO PESSOA JURIDICA
+FALHA
+PARAMETRO PESSOA FISICA
+FALHA
+Fim: 04-09-17_09:39:29
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 04/09/17_09:39:30
+RESTDSL-Product-GET
+TOKEN ENVIADO
+FALHA
+Fim: 04-09-17_09:39:34
+
+[FUSE-ITAU] - S E D A 
+======================
+Inicio: 04/09/17_09:39:35
+SERVICO ACESSADO
+SUCESSO
+TIMEOUT EXCEDIDO
+Fim: 04-09-17_09:39:38
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 04/09/17_09:42:23
+Fim: 04-09-17_09:42:26
+
+[FUSE-ITAU] - C O R R E L A T I O N
+===================================
+Inicio: 04/09/17_09:42:27
+SUCESSO
+Fim: 04-09-17_09:42:31
+
+[FUSE-ITAU] - E X H A N D L I N G 
+==================================
+Inicio: 04/09/17_09:42:33
+SERVICO ACESSADO
+SUCESSO
+CHAMADA DE EXCECAO
+SUCESSO
+Fim: 04-09-17_09:42:35
+
+[FUSE-ITAU] - L O G G I N G 
+============================
+Inicio: 04/09/17_09:42:37
+SERVICO ACESSADO
+FALHA
+RESTDSL-Pessoa-POST
+SERVICO ACESSADO
+FALHA
+Fim: 04-09-17_09:42:39
+
+[FUSE-ITAU] - R O U T I N G 
+============================
+Inicio: 04/09/17_09:42:40
+PARAMETRO PESSOA JURIDICA
+FALHA
+PARAMETRO PESSOA FISICA
+FALHA
+Fim: 04-09-17_09:42:42
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 04/09/17_09:42:43
+RESTDSL-Product-GET
+TOKEN ENVIADO
+FALHA
+Fim: 04-09-17_09:42:47
+
+[FUSE-ITAU] - S E D A 
+======================
+Inicio: 04/09/17_09:42:49
+SERVICO ACESSADO
+SUCESSO
+TIMEOUT EXCEDIDO
+Fim: 04-09-17_09:42:52
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 04/09/17_09:44:35
+Fim: 04-09-17_09:44:37
+
+[FUSE-ITAU] - C O R R E L A T I O N
+===================================
+Inicio: 04/09/17_09:44:38
+SUCESSO
+Fim: 04-09-17_09:44:42
+
+[FUSE-ITAU] - E X H A N D L I N G 
+==================================
+Inicio: 04/09/17_09:44:43
+SERVICO ACESSADO
+SUCESSO
+CHAMADA DE EXCECAO
+SUCESSO
+Fim: 04-09-17_09:44:45
+
+[FUSE-ITAU] - L O G G I N G 
+============================
+Inicio: 04/09/17_09:44:47
+SERVICO ACESSADO
+FALHA
+RESTDSL-Pessoa-POST
+SERVICO ACESSADO
+FALHA
+Fim: 04-09-17_09:44:49
+
+[FUSE-ITAU] - R O U T I N G 
+============================
+Inicio: 04/09/17_09:44:51
+PARAMETRO PESSOA JURIDICA
+FALHA
+PARAMETRO PESSOA FISICA
+FALHA
+Fim: 04-09-17_09:44:52
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 04/09/17_09:44:54
+RESTDSL-Product-GET
+TOKEN ENVIADO
+FALHA
+Fim: 04-09-17_09:44:56
+
+[FUSE-ITAU] - S E D A 
+======================
+Inicio: 04/09/17_09:44:57
+SERVICO ACESSADO
+SUCESSO
+TIMEOUT EXCEDIDO
+Fim: 04-09-17_09:45:00
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 04/09/17_09:49:53
+Fim: 04-09-17_09:49:55
+
+[FUSE-ITAU] - C O R R E L A T I O N
+===================================
+Inicio: 04/09/17_09:49:56
+SUCESSO
+Fim: 04-09-17_09:50:00
+
+[FUSE-ITAU] - E X H A N D L I N G 
+==================================
+Inicio: 04/09/17_09:50:02
+SERVICO ACESSADO
+SUCESSO
+CHAMADA DE EXCECAO
+SUCESSO
+Fim: 04-09-17_09:50:04
+
+[FUSE-ITAU] - L O G G I N G 
+============================
+Inicio: 04/09/17_09:50:06
+SERVICO ACESSADO
+FALHA
+RESTDSL-Pessoa-POST
+SERVICO ACESSADO
+FALHA
+Fim: 04-09-17_09:50:08
+
+[FUSE-ITAU] - R O U T I N G 
+============================
+Inicio: 04/09/17_09:50:10
+PARAMETRO PESSOA JURIDICA
+FALHA
+PARAMETRO PESSOA FISICA
+FALHA
+Fim: 04-09-17_09:50:12
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 04/09/17_09:50:13
+RESTDSL-Product-GET
+TOKEN ENVIADO
+FALHA
+Fim: 04-09-17_09:50:16
+
+[FUSE-ITAU] - S E D A 
+======================
+Inicio: 04/09/17_09:50:17
+SERVICO ACESSADO
+SUCESSO
+TIMEOUT EXCEDIDO
+Fim: 04-09-17_09:50:21
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 04/09/17_11:19:58
+SUCESSO
+Fim: 04-09-17_11:20:01
+
+[FUSE-ITAU] - C O R R E L A T I O N
+===================================
+Inicio: 04/09/17_11:20:02
+SUCESSO
+Fim: 04-09-17_11:20:06
+
+[FUSE-ITAU] - E X H A N D L I N G 
+==================================
+Inicio: 04/09/17_11:20:08
+SERVICO ACESSADO
+SUCESSO
+CHAMADA DE EXCECAO
+SUCESSO
+Fim: 04-09-17_11:20:10
+
+[FUSE-ITAU] - L O G G I N G 
+============================
+Inicio: 04/09/17_11:20:11
+SERVICO ACESSADO
+SUCESSO
+EXCECAO LOGADA
+SUCESSO
+RESTDSL-Pessoa-POST
+SERVICO ACESSADO
+SUCESSO
+EXCECAO LOGADA
+SUCESSO
+Fim: 04-09-17_11:20:15
+
+[FUSE-ITAU] - R O U T I N G 
+============================
+Inicio: 04/09/17_11:20:16
+PARAMETRO PESSOA JURIDICA
+SUCESSO
+PARAMETRO PESSOA FISICA
+SUCESSO
+Fim: 04-09-17_11:20:17
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 04/09/17_11:20:19
+RESTDSL-Product-GET
+TOKEN ENVIADO
+SUCESSO
+TOKEN COM ERRO ENVIADO
+SUCESSO
+Fim: 04-09-17_11:20:21
+
+[FUSE-ITAU] - S E D A 
+======================
+Inicio: 04/09/17_11:20:23
+SERVICO ACESSADO
+SUCESSO
+TIMEOUT EXCEDIDO
+Fim: 04-09-17_11:20:26
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 04/09/17_11:20:45
+SUCESSO
+Fim: 04-09-17_11:20:47
+
+[FUSE-ITAU] - C O R R E L A T I O N
+===================================
+Inicio: 04/09/17_11:20:48
+SUCESSO
+Fim: 04-09-17_11:20:51
+
+[FUSE-ITAU] - E X H A N D L I N G 
+==================================
+Inicio: 04/09/17_11:20:53
+SERVICO ACESSADO
+SUCESSO
+CHAMADA DE EXCECAO
+SUCESSO
+Fim: 04-09-17_11:20:54
+
+[FUSE-ITAU] - L O G G I N G 
+============================
+Inicio: 04/09/17_11:20:56
+SERVICO ACESSADO
+SUCESSO
+EXCECAO LOGADA
+SUCESSO
+RESTDSL-Pessoa-POST
+SERVICO ACESSADO
+SUCESSO
+EXCECAO LOGADA
+SUCESSO
+Fim: 04-09-17_11:20:59
+
+[FUSE-ITAU] - R O U T I N G 
+============================
+Inicio: 04/09/17_11:21:01
+PARAMETRO PESSOA JURIDICA
+SUCESSO
+PARAMETRO PESSOA FISICA
+SUCESSO
+Fim: 04-09-17_11:21:02
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 04/09/17_11:21:04
+RESTDSL-Product-GET
+TOKEN ENVIADO
+SUCESSO
+TOKEN COM ERRO ENVIADO
+SUCESSO
+Fim: 04-09-17_11:21:06
+
+[FUSE-ITAU] - S E D A 
+======================
+Inicio: 04/09/17_11:21:08
+SERVICO ACESSADO
+SUCESSO
+TIMEOUT NAO EXCEDIDO
+Fim: 04-09-17_11:21:11
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 04/09/17_11:36:13
+SUCESSO
+Fim: 04-09-17_11:36:15
+
+[FUSE-ITAU] - A G G R E G A T E
+===============================
+Inicio: 04/09/17_11:43:45
+SUCESSO
+Fim: 04-09-17_11:43:46
+
+[FUSE-ITAU] - C O R R E L A T I O N
+===================================
+Inicio: 04/09/17_11:43:47
+SUCESSO
+Fim: 04-09-17_11:43:51
+
+[FUSE-ITAU] - E X H A N D L I N G 
+==================================
+Inicio: 04/09/17_11:43:53
+SERVICO ACESSADO
+SUCESSO
+CHAMADA DE EXCECAO
+SUCESSO
+Fim: 04-09-17_11:43:54
+
+[FUSE-ITAU] - L O G G I N G 
+============================
+Inicio: 04/09/17_11:43:56
+SERVICO ACESSADO
+SUCESSO
+EXCECAO LOGADA
+SUCESSO
+RESTDSL-Pessoa-POST
+SERVICO ACESSADO
+SUCESSO
+EXCECAO LOGADA
+SUCESSO
+Fim: 04-09-17_11:43:59
+
+[FUSE-ITAU] - R O U T I N G 
+============================
+Inicio: 04/09/17_11:44:01
+PARAMETRO PESSOA JURIDICA
+SUCESSO
+PARAMETRO PESSOA FISICA
+SUCESSO
+Fim: 04-09-17_11:44:03
+
+[FUSE-ITAU] - S E C U R I T Y 
+==============================
+Inicio: 04/09/17_11:44:04
+RESTDSL-Product-GET
+TOKEN ENVIADO
+SUCESSO
+TOKEN COM ERRO ENVIADO
+SUCESSO
+Fim: 04-09-17_11:44:06
+
+[FUSE-ITAU] - S E D A 
+======================
+Inicio: 04/09/17_11:44:08
+SERVICO ACESSADO
+SUCESSO
+TIMEOUT NAO EXCEDIDO
+Fim: 04-09-17_11:44:11
+

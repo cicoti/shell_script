@@ -1,0 +1,6 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ex="http://ex_handling.fuse.ea4.itau.com">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ex:list/>
+   </soapenv:Body>
+</soapenv:Envelope>

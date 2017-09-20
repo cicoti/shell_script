@@ -1,0 +1,1 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns2:getResponse xmlns="http://model.fuse.ea4.itau.com" xmlns:ns2="http://logging.fuse.ea4.itau.com"><branch><id>gero et</id><name>Agencia ABC</name></branch></ns2:getResponse></soap:Body></soap:Envelope>POST

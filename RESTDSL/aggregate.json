@@ -1,0 +1,15 @@
+ {
+  "from" : {
+    "number" : "1231231-2",
+    "branchNr" : "12233",
+    "bankNr" : "123"
+  },
+  "to" : {
+    "number" : "123743-4",
+    "branchNr" : "123233",
+    "bankNr" : "123"
+  },
+  "value" : 102.22,
+  "transfDate" : 1497884080703,
+  "status" : null
+}

@@ -1,0 +1,21 @@
+{
+  "branch" : {
+    "id" : "222",
+    "name" : "Agencia Santo Amaro"
+  },
+  "statement" : {
+    "branchId" : "1234",
+    "accountId" : "1234",
+    "generationDate" : 1504536248550,
+    "entries" : [ {
+      "origin" : "Dysney World LDTA",
+      "dateTime" : 1504536248550,
+      "value" : 1000.00
+    }, {
+      "origin" : "Posto de Gasolina LTDA",
+      "dateTime" : 1504536248550,
+      "value" : 200.00
+    } ]
+  },
+  "audited" : true
+}GET

@@ -1,0 +1,5 @@
+{
+  "id" : "123",
+  "name" : "Joao da Silva",
+  "email" : "joao@gmail.com"
+}GET

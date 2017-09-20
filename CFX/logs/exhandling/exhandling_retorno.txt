@@ -1,0 +1,1 @@
+{"account":[{"number":1231241,"branchNr":12313423,"bankNr":1231231},{"number":1231241,"branchNr":12313423,"bankNr":1231231},{"number":1231241,"branchNr":12313423,"bankNr":1231231},{"number":1231241,"branchNr":12313423,"bankNr":1231231}]}GET

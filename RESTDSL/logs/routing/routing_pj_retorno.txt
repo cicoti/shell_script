@@ -1,0 +1,5 @@
+{
+  "id" : "123",
+  "name" : "Empresas SA.",
+  "email" : "empresa@itau.com.br"
+}GET

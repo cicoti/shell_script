@@ -1,0 +1,14 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:log="http://logging.fuse.ea4.itau.com" xmlns:mod="http://model.fuse.ea4.itau.com">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <log:get>
+         <!--Optional:-->
+         <log:branch>
+            <!--Optional:-->
+            <mod:id>gero et</mod:id>
+            <!--Optional:-->
+            <mod:name>sonoras imperio</mod:name>
+         </log:branch>
+      </log:get>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,1 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns2:createResponse xmlns="http://model.fuse.ea4.itau.com" xmlns:ns2="http://logging.fuse.ea4.itau.com"><branch><id>815af8f4-c7d2-4fa4-b59b-1505641c1cc2</id><name>sonoras imperio</name></branch></ns2:createResponse></soap:Body></soap:Envelope>POST
